@@ -1,0 +1,8 @@
+# data and environments (don't push the dataset or venv)
+data/
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+*.zip
+.DS_Store
+.vscode/
